@@ -5,9 +5,7 @@ Basic structure creator for a web application using a Python Script
 
 ### How to run
 Just copy the script on the folder you want and run in terminal 
-
-`<addr>` python simple-wrapper.py
-
+`python simple-wrapper.py` 
 
 ## Version 1.0
 - Vanilla JS site
