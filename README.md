@@ -3,7 +3,7 @@ Basic structure creator for a web application using a Python Script
 
 #100DaysOfCode Day 3
 
-### How to run
+### How to run it
 Just copy the script on the folder you want and run in terminal 
 `python simple-wrapper.py` 
 
